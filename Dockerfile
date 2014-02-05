@@ -1,6 +1,6 @@
 from ubuntu:precise
 
-maintainer IRMIS
+MAINTAINER GlobAllomeTree "globallometree@fao.org"
 
 run echo "deb http://archive.ubuntu.com/ubuntu precise main universe" > /etc/apt/sources.list
 run apt-get update
