@@ -1,6 +1,6 @@
 from ubuntu:precise
 
-MAINTAINER GlobAllomeTree "globallometree@fao.org"
+MAINTAINER Bit Bamboo, LLC "alext@bitbamboo.com"
 
 run echo "deb http://archive.ubuntu.com/ubuntu precise main universe" > /etc/apt/sources.list
 run apt-get update
